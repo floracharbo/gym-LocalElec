@@ -1,0 +1,1 @@
+gym_foo is a first try at making a custom gym environment
